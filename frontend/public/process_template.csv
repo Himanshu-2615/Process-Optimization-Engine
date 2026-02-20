@@ -1,0 +1,5 @@
+name,duration_minutes,cost_per_execution,resource_count,sla_limit_minutes,executions_per_day
+Request Submission,10,5,2,15,50
+Manager Approval,120,50,3,90,50
+Finance Approval,90,30,2,120,50
+Vendor Allocation,60,20,2,90,50
